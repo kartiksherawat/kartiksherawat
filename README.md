@@ -70,7 +70,7 @@
 
 ## 🧑‍💻 Professional Summary
 
-Backend Engineer with **3+ years of experience** designing and scaling  
+Backend Engineer with **4+ years of experience** designing and scaling  
 **Java-based distributed systems**.
 
 Expertise includes:
