@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  💼 3+ Years building scalable, high-performance backend systems<br/>
+  💼 4+ Years building scalable, high-performance backend systems<br/>
   📍 Noida, India • 📧 kartiksherawat.96@gmail.com • 📞 +91-9718879096
 </p>
 
